@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FormulaScene.unity
     guid: 415eb8dc896b49e4daf1c2b8982dc33a
+  - enabled: 1
+    path: Assets/Scenes/SpinScene.unity
+    guid: f9d6ab21638d49e43a966de66c4e1dae
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 0a5d6201b0a01324caceab66eb6bc2c9
   m_configObjects: {}
